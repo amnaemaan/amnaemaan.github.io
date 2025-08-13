@@ -18,6 +18,6 @@ Because it’s not just vulnerabilities we strive to find, it’s about the thou
 </p>
 
 <p style="text-align: justify;">
-When I’m not in cyber mode, you’ll probably find me absorbed in a gripping thriller, reflecting on human psychology, or learning about cultures far different from my own. Technology may connect us, but I believe it’s our shared stories that truly bring us closer. So, feel free to connect with me on <a href="https://www.linkedin.com/in/amna-emaan/" target="_blank" style="color: #0A66C2; text-decoration: underline;">LinkedIn</a> — whether you want to exchange CTF strategies or recommend your favorite mind-bending series. 😊
+When I’m not in cyber mode, you’ll probably find me absorbed in a gripping thriller, reflecting on human psychology, or learning about cultures far different from my own. Technology may connect us, but I believe it’s our shared stories that truly bring us closer. So, feel free to connect with me on <a href="https://www.linkedin.com/in/amna-emaan/" target="_blank" style="color: #0A66C2;">LinkedIn</a> — whether you want to exchange CTF strategies or recommend your favorite mind-bending series. 😊
 </p>
 
